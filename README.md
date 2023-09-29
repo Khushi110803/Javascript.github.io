@@ -1,1 +1,2 @@
-# Javascript.github.io
+# Javascript Lab 1
+
